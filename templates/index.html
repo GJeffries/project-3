@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Visualization of Obesity data around the globe</title>
+  <style>
+    h1 {
+      text-align: center;
+      color: rgb(68, 0, 255);
+    }
+    h2{
+      text-align: left;
+      color: rgb(0, 255, 98);
+    }
+  
+    h3{
+      text-align: right;
+      color: rgb(0, 255, 98);
+    }
+  </style>
+</head>
+<body>
+  <h1><b>OBESITY DATA AROUND THE GLOBE</b></h1>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="../static/js/barchart.js"></script>
+  <h2>Maps showing obesity</h2>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="map.js"></script>
+  <select id="selDataset">
+    <option value="dataset1">DataSet1</option>
+    <option value="dataset2">DataSet2</option>
+  </select>
+
+  <!--<h3>Graphs showing obesity stats</h3>-->
+  <!--<select id="selDataset1">
+  #  <option value="dataset3">DataSet3</option>
+  #  <option value="dataset4">DataSet4</option>
+  #</select> --> 
+  <script src="plots.js"></script>
+  <p><a href="barchart">Link for bar charts!</a></p>
+</body>
+</html>
+<div id="plot"></div>
+
