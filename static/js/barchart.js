@@ -4,7 +4,6 @@ d3.json(`/api/get_data`).then(function(data) {
     obesity_data = Object.values(data)
     
     // sort data to use for plot
-    id_list = []
     Country_list = []
     Latitude_list = []
     Longitude_list = []
@@ -12,7 +11,6 @@ d3.json(`/api/get_data`).then(function(data) {
     Pct_obesity_list = []
     Sex_list = []
     for (i in obesity_data) {
-      id_list.push(obesity_data[i]["id"])
       Country_list.push(obesity_data[i]["country"])
       Latitude_list.push(obesity_data[i]["Latitude"])
       Longitude_list.push(obesity_data[i]["Longitude"])
@@ -20,13 +18,14 @@ d3.json(`/api/get_data`).then(function(data) {
       Pct_obesity_list.push(obesity_data[i]["Pct_obesity"])
       Sex_list.push(obesity_data[i]["Sex"])
     }
-    
+    console.log(obesity_data)
     // set traces
-    Cntry_list = []
+    trace_list = []
     for (i in obesity_data) {
-    Cntry_list.push({
+    trace_list.push({
       x: [Country_list[i]],
       y: [Pct_obesity_list[i]],
+      name: Country_list[i],
       type: "bar",
       //marker: {
         //color: colors_list[i],
@@ -35,34 +34,39 @@ d3.json(`/api/get_data`).then(function(data) {
     }
     
     // set chart data
-    var data = Cntry_list;
+    //var data = [
+    //  {
+    //    x:['Afghanistan', 'Albania', 'Andorra', 'Angola'],
+    //    y:[3.2,21.6,19.9,25.9],
+    //    type:'bar'
+    //  }
+    //]
     
-    // set layout
+    //set layout
     //var layout = {
     //  title:'Obesity data around the Globe',
     //  xaxis: {
     //    title: "Countries",
     //    tickvals: Country_list,
-    //    ticktext: Country_list,
+    //    ticktext: Country_list
         
-    //  },
-      var layout = {
-        title:'Obesity data around the Globe',
-        xaxis: {
-          title: "Countries",
-          tickvals: data.Country,
-          ticktext: data.Country,
+    //  }
+      //var layout = {
+      //  title:'Obesity data around the Globe',
+      //  xaxis: {
+      //    title: "Countries",
+      //    tickvals: data.Country,
+      //    ticktext: data.Country,
           
-        },
-      yaxis: {
-        title: "Obesity",
-        tickvals: data.Pct_obesity,
-        ticktext: data.Pct_obesity,
-      },
-      showlegend:true
-    };
+      //  },
+      //yaxis: {
+      //  title: "Obesity",
+      //  tickvals: data.Pct_obesity,
+      //  ticktext: data.Pct_obesity,
+      //},
+      //showlegend:true
+    //};
     
     // plot chart
-    Plotly.newPlot('myDiv', data, layout);
-    
-    })
+    Plotly.newPlot('myDiv', data)
+})

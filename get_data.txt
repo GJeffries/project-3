@@ -1,0 +1,4586 @@
+{
+  "0": {
+    "Country": "Afghanistan",
+    "Latitude": 33.93911,
+    "Longitude": 67.709953,
+    "Pct_obesity": 5.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "1": {
+    "Country": "Afghanistan",
+    "Latitude": 33.93911,
+    "Longitude": 67.709953,
+    "Pct_obesity": 3.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "2": {
+    "Country": "Afghanistan",
+    "Latitude": 33.93911,
+    "Longitude": 67.709953,
+    "Pct_obesity": 7.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "3": {
+    "Country": "Albania",
+    "Latitude": 41.153332,
+    "Longitude": 20.168331,
+    "Pct_obesity": 21.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "4": {
+    "Country": "Albania",
+    "Latitude": 41.153332,
+    "Longitude": 20.168331,
+    "Pct_obesity": 21.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "5": {
+    "Country": "Albania",
+    "Latitude": 41.153332,
+    "Longitude": 20.168331,
+    "Pct_obesity": 21.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "6": {
+    "Country": "Algeria",
+    "Latitude": 28.033886,
+    "Longitude": 1.6596259999999998,
+    "Pct_obesity": 27.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "7": {
+    "Country": "Algeria",
+    "Latitude": 28.033886,
+    "Longitude": 1.6596259999999998,
+    "Pct_obesity": 19.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "8": {
+    "Country": "Algeria",
+    "Latitude": 28.033886,
+    "Longitude": 1.6596259999999998,
+    "Pct_obesity": 34.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "9": {
+    "Country": "Andorra",
+    "Latitude": 42.546245,
+    "Longitude": 1.6015540000000001,
+    "Pct_obesity": 25.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "10": {
+    "Country": "Andorra",
+    "Latitude": 42.546245,
+    "Longitude": 1.6015540000000001,
+    "Pct_obesity": 25.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "11": {
+    "Country": "Andorra",
+    "Latitude": 42.546245,
+    "Longitude": 1.6015540000000001,
+    "Pct_obesity": 25.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "12": {
+    "Country": "Angola",
+    "Latitude": -11.202691999999999,
+    "Longitude": 17.873887,
+    "Pct_obesity": 8.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "13": {
+    "Country": "Angola",
+    "Latitude": -11.202691999999999,
+    "Longitude": 17.873887,
+    "Pct_obesity": 4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "14": {
+    "Country": "Angola",
+    "Latitude": -11.202691999999999,
+    "Longitude": 17.873887,
+    "Pct_obesity": 12.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "15": {
+    "Country": "Antigua and Barbuda",
+    "Latitude": 17.060816,
+    "Longitude": -61.796428000000006,
+    "Pct_obesity": 18.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "16": {
+    "Country": "Antigua and Barbuda",
+    "Latitude": 17.060816,
+    "Longitude": -61.796428000000006,
+    "Pct_obesity": 11.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "17": {
+    "Country": "Antigua and Barbuda",
+    "Latitude": 17.060816,
+    "Longitude": -61.796428000000006,
+    "Pct_obesity": 25.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "18": {
+    "Country": "Argentina",
+    "Latitude": -38.416097,
+    "Longitude": -63.616671999999994,
+    "Pct_obesity": 28.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "19": {
+    "Country": "Argentina",
+    "Latitude": -38.416097,
+    "Longitude": -63.616671999999994,
+    "Pct_obesity": 27.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "20": {
+    "Country": "Argentina",
+    "Latitude": -38.416097,
+    "Longitude": -63.616671999999994,
+    "Pct_obesity": 29,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "21": {
+    "Country": "Armenia",
+    "Latitude": 40.069099,
+    "Longitude": 45.038189,
+    "Pct_obesity": 20.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "22": {
+    "Country": "Armenia",
+    "Latitude": 40.069099,
+    "Longitude": 45.038189,
+    "Pct_obesity": 17.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "23": {
+    "Country": "Armenia",
+    "Latitude": 40.069099,
+    "Longitude": 45.038189,
+    "Pct_obesity": 23,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "24": {
+    "Country": "Australia",
+    "Latitude": -25.274398,
+    "Longitude": 133.775136,
+    "Pct_obesity": 29,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "25": {
+    "Country": "Australia",
+    "Latitude": -25.274398,
+    "Longitude": 133.775136,
+    "Pct_obesity": 29.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "26": {
+    "Country": "Australia",
+    "Latitude": -25.274398,
+    "Longitude": 133.775136,
+    "Pct_obesity": 28.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "27": {
+    "Country": "Austria",
+    "Latitude": 47.516231,
+    "Longitude": 14.550072,
+    "Pct_obesity": 20.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "28": {
+    "Country": "Austria",
+    "Latitude": 47.516231,
+    "Longitude": 14.550072,
+    "Pct_obesity": 21.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "29": {
+    "Country": "Austria",
+    "Latitude": 47.516231,
+    "Longitude": 14.550072,
+    "Pct_obesity": 18.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "30": {
+    "Country": "Azerbaijan",
+    "Latitude": 40.143105,
+    "Longitude": 47.576927000000005,
+    "Pct_obesity": 19.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "31": {
+    "Country": "Azerbaijan",
+    "Latitude": 40.143105,
+    "Longitude": 47.576927000000005,
+    "Pct_obesity": 15.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "32": {
+    "Country": "Azerbaijan",
+    "Latitude": 40.143105,
+    "Longitude": 47.576927000000005,
+    "Pct_obesity": 23.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "33": {
+    "Country": "Bahamas",
+    "Latitude": 25.03428,
+    "Longitude": -77.39628,
+    "Pct_obesity": 31.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "34": {
+    "Country": "Bahamas",
+    "Latitude": 25.03428,
+    "Longitude": -77.39628,
+    "Pct_obesity": 24.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "35": {
+    "Country": "Bahamas",
+    "Latitude": 25.03428,
+    "Longitude": -77.39628,
+    "Pct_obesity": 38.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "36": {
+    "Country": "Bahrain",
+    "Latitude": 25.930414000000003,
+    "Longitude": 50.637772,
+    "Pct_obesity": 29.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "37": {
+    "Country": "Bahrain",
+    "Latitude": 25.930414000000003,
+    "Longitude": 50.637772,
+    "Pct_obesity": 25.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "38": {
+    "Country": "Bahrain",
+    "Latitude": 25.930414000000003,
+    "Longitude": 50.637772,
+    "Pct_obesity": 36.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "39": {
+    "Country": "Bangladesh",
+    "Latitude": 23.684994,
+    "Longitude": 90.35633100000001,
+    "Pct_obesity": 3.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "40": {
+    "Country": "Bangladesh",
+    "Latitude": 23.684994,
+    "Longitude": 90.35633100000001,
+    "Pct_obesity": 2.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "41": {
+    "Country": "Bangladesh",
+    "Latitude": 23.684994,
+    "Longitude": 90.35633100000001,
+    "Pct_obesity": 5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "42": {
+    "Country": "Barbados",
+    "Latitude": 13.193887,
+    "Longitude": -59.543198,
+    "Pct_obesity": 23.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "43": {
+    "Country": "Barbados",
+    "Latitude": 13.193887,
+    "Longitude": -59.543198,
+    "Pct_obesity": 14.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "44": {
+    "Country": "Barbados",
+    "Latitude": 13.193887,
+    "Longitude": -59.543198,
+    "Pct_obesity": 31.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "45": {
+    "Country": "Belarus",
+    "Latitude": 53.709807,
+    "Longitude": 27.953389,
+    "Pct_obesity": 24.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "46": {
+    "Country": "Belarus",
+    "Latitude": 53.709807,
+    "Longitude": 27.953389,
+    "Pct_obesity": 22.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "47": {
+    "Country": "Belarus",
+    "Latitude": 53.709807,
+    "Longitude": 27.953389,
+    "Pct_obesity": 26.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "48": {
+    "Country": "Belgium",
+    "Latitude": 50.503887,
+    "Longitude": 4.469936,
+    "Pct_obesity": 22.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "49": {
+    "Country": "Belgium",
+    "Latitude": 50.503887,
+    "Longitude": 4.469936,
+    "Pct_obesity": 23.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "50": {
+    "Country": "Belgium",
+    "Latitude": 50.503887,
+    "Longitude": 4.469936,
+    "Pct_obesity": 21,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "51": {
+    "Country": "Belize",
+    "Latitude": 17.189877,
+    "Longitude": -88.49765,
+    "Pct_obesity": 24.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "52": {
+    "Country": "Belize",
+    "Latitude": 17.189877,
+    "Longitude": -88.49765,
+    "Pct_obesity": 16.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "53": {
+    "Country": "Belize",
+    "Latitude": 17.189877,
+    "Longitude": -88.49765,
+    "Pct_obesity": 31.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "54": {
+    "Country": "Benin",
+    "Latitude": 9.30769,
+    "Longitude": 2.315834,
+    "Pct_obesity": 9.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "55": {
+    "Country": "Benin",
+    "Latitude": 9.30769,
+    "Longitude": 2.315834,
+    "Pct_obesity": 4.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "56": {
+    "Country": "Benin",
+    "Latitude": 9.30769,
+    "Longitude": 2.315834,
+    "Pct_obesity": 14.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "57": {
+    "Country": "Bhutan",
+    "Latitude": 27.514162,
+    "Longitude": 90.433601,
+    "Pct_obesity": 6.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "58": {
+    "Country": "Bhutan",
+    "Latitude": 27.514162,
+    "Longitude": 90.433601,
+    "Pct_obesity": 4.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "59": {
+    "Country": "Bhutan",
+    "Latitude": 27.514162,
+    "Longitude": 90.433601,
+    "Pct_obesity": 8.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "60": {
+    "Country": "Bolivia",
+    "Latitude": -16.290154,
+    "Longitude": -63.588653,
+    "Pct_obesity": 20.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "61": {
+    "Country": "Bolivia",
+    "Latitude": -16.290154,
+    "Longitude": -63.588653,
+    "Pct_obesity": 14.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "62": {
+    "Country": "Bolivia",
+    "Latitude": -16.290154,
+    "Longitude": -63.588653,
+    "Pct_obesity": 25.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "63": {
+    "Country": "Bosnia and Herzegovina",
+    "Latitude": 43.915886,
+    "Longitude": 17.679076000000002,
+    "Pct_obesity": 17.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "64": {
+    "Country": "Bosnia and Herzegovina",
+    "Latitude": 43.915886,
+    "Longitude": 17.679076000000002,
+    "Pct_obesity": 17.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "65": {
+    "Country": "Bosnia and Herzegovina",
+    "Latitude": 43.915886,
+    "Longitude": 17.679076000000002,
+    "Pct_obesity": 18.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "66": {
+    "Country": "Botswana",
+    "Latitude": -22.328474,
+    "Longitude": 24.684866,
+    "Pct_obesity": 18.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "67": {
+    "Country": "Botswana",
+    "Latitude": -22.328474,
+    "Longitude": 24.684866,
+    "Pct_obesity": 8.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "68": {
+    "Country": "Botswana",
+    "Latitude": -22.328474,
+    "Longitude": 24.684866,
+    "Pct_obesity": 29.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "69": {
+    "Country": "Brazil",
+    "Latitude": -14.235004,
+    "Longitude": -51.92528,
+    "Pct_obesity": 22.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "70": {
+    "Country": "Brazil",
+    "Latitude": -14.235004,
+    "Longitude": -51.92528,
+    "Pct_obesity": 18.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "71": {
+    "Country": "Brazil",
+    "Latitude": -14.235004,
+    "Longitude": -51.92528,
+    "Pct_obesity": 25.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "72": {
+    "Country": "Brunei",
+    "Latitude": 4.535277,
+    "Longitude": 114.72766899999999,
+    "Pct_obesity": 14.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "73": {
+    "Country": "Brunei",
+    "Latitude": 4.535277,
+    "Longitude": 114.72766899999999,
+    "Pct_obesity": 12.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "74": {
+    "Country": "Brunei",
+    "Latitude": 4.535277,
+    "Longitude": 114.72766899999999,
+    "Pct_obesity": 15.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "75": {
+    "Country": "Bulgaria",
+    "Latitude": 42.733883,
+    "Longitude": 25.48583,
+    "Pct_obesity": 25,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "76": {
+    "Country": "Bulgaria",
+    "Latitude": 42.733883,
+    "Longitude": 25.48583,
+    "Pct_obesity": 25.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "77": {
+    "Country": "Bulgaria",
+    "Latitude": 42.733883,
+    "Longitude": 25.48583,
+    "Pct_obesity": 24.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "78": {
+    "Country": "Burkina Faso",
+    "Latitude": 12.238333,
+    "Longitude": -1.561593,
+    "Pct_obesity": 5.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "79": {
+    "Country": "Burkina Faso",
+    "Latitude": 12.238333,
+    "Longitude": -1.561593,
+    "Pct_obesity": 2.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "80": {
+    "Country": "Burkina Faso",
+    "Latitude": 12.238333,
+    "Longitude": -1.561593,
+    "Pct_obesity": 8.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "81": {
+    "Country": "Burundi",
+    "Latitude": -3.3730559999999996,
+    "Longitude": 29.918885999999997,
+    "Pct_obesity": 5.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "82": {
+    "Country": "Burundi",
+    "Latitude": -3.3730559999999996,
+    "Longitude": 29.918885999999997,
+    "Pct_obesity": 2.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "83": {
+    "Country": "Burundi",
+    "Latitude": -3.3730559999999996,
+    "Longitude": 29.918885999999997,
+    "Pct_obesity": 8.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "84": {
+    "Country": "Cape Verde",
+    "Latitude": 16.002082,
+    "Longitude": -24.013197,
+    "Pct_obesity": 11.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "85": {
+    "Country": "Cape Verde",
+    "Latitude": 16.002082,
+    "Longitude": -24.013197,
+    "Pct_obesity": 6.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "86": {
+    "Country": "Cape Verde",
+    "Latitude": 16.002082,
+    "Longitude": -24.013197,
+    "Pct_obesity": 16.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "87": {
+    "Country": "Cambodia",
+    "Latitude": 12.565679,
+    "Longitude": 104.990963,
+    "Pct_obesity": 3.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "88": {
+    "Country": "Cambodia",
+    "Latitude": 12.565679,
+    "Longitude": 104.990963,
+    "Pct_obesity": 2.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "89": {
+    "Country": "Cambodia",
+    "Latitude": 12.565679,
+    "Longitude": 104.990963,
+    "Pct_obesity": 4.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "90": {
+    "Country": "Cameroon",
+    "Latitude": 7.369722,
+    "Longitude": 12.354722,
+    "Pct_obesity": 11.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "91": {
+    "Country": "Cameroon",
+    "Latitude": 7.369722,
+    "Longitude": 12.354722,
+    "Pct_obesity": 6.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "92": {
+    "Country": "Cameroon",
+    "Latitude": 7.369722,
+    "Longitude": 12.354722,
+    "Pct_obesity": 16.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "93": {
+    "Country": "Canada",
+    "Latitude": 56.130366,
+    "Longitude": -106.34677099999999,
+    "Pct_obesity": 29.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "94": {
+    "Country": "Canada",
+    "Latitude": 56.130366,
+    "Longitude": -106.34677099999999,
+    "Pct_obesity": 29.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "95": {
+    "Country": "Canada",
+    "Latitude": 56.130366,
+    "Longitude": -106.34677099999999,
+    "Pct_obesity": 29.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "96": {
+    "Country": "Central African Republic",
+    "Latitude": 6.611111,
+    "Longitude": 20.939444,
+    "Pct_obesity": 7.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "97": {
+    "Country": "Central African Republic",
+    "Latitude": 6.611111,
+    "Longitude": 20.939444,
+    "Pct_obesity": 3.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "98": {
+    "Country": "Central African Republic",
+    "Latitude": 6.611111,
+    "Longitude": 20.939444,
+    "Pct_obesity": 10.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "99": {
+    "Country": "Chad",
+    "Latitude": 15.454166,
+    "Longitude": 18.732207,
+    "Pct_obesity": 6.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "100": {
+    "Country": "Chad",
+    "Latitude": 15.454166,
+    "Longitude": 18.732207,
+    "Pct_obesity": 3.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "101": {
+    "Country": "Chad",
+    "Latitude": 15.454166,
+    "Longitude": 18.732207,
+    "Pct_obesity": 8.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "102": {
+    "Country": "Chile",
+    "Latitude": -35.675146999999996,
+    "Longitude": -71.542969,
+    "Pct_obesity": 28,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "103": {
+    "Country": "Chile",
+    "Latitude": -35.675146999999996,
+    "Longitude": -71.542969,
+    "Pct_obesity": 24.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "104": {
+    "Country": "Chile",
+    "Latitude": -35.675146999999996,
+    "Longitude": -71.542969,
+    "Pct_obesity": 31,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "105": {
+    "Country": "China",
+    "Latitude": 35.86166,
+    "Longitude": 104.195397,
+    "Pct_obesity": 6.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "106": {
+    "Country": "China",
+    "Latitude": 35.86166,
+    "Longitude": 104.195397,
+    "Pct_obesity": 5.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "107": {
+    "Country": "China",
+    "Latitude": 35.86166,
+    "Longitude": 104.195397,
+    "Pct_obesity": 6.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "108": {
+    "Country": "Colombia",
+    "Latitude": 4.570868,
+    "Longitude": -74.297333,
+    "Pct_obesity": 22.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "109": {
+    "Country": "Colombia",
+    "Latitude": 4.570868,
+    "Longitude": -74.297333,
+    "Pct_obesity": 17.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "110": {
+    "Country": "Colombia",
+    "Latitude": 4.570868,
+    "Longitude": -74.297333,
+    "Pct_obesity": 26.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "111": {
+    "Country": "Comoros",
+    "Latitude": -11.875001,
+    "Longitude": 43.872219,
+    "Pct_obesity": 7.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "112": {
+    "Country": "Comoros",
+    "Latitude": -11.875001,
+    "Longitude": 43.872219,
+    "Pct_obesity": 3.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "113": {
+    "Country": "Comoros",
+    "Latitude": -11.875001,
+    "Longitude": 43.872219,
+    "Pct_obesity": 12.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "114": {
+    "Country": "Congo",
+    "Latitude": -0.228021,
+    "Longitude": 15.827658999999999,
+    "Pct_obesity": 9.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "115": {
+    "Country": "Congo",
+    "Latitude": -0.228021,
+    "Longitude": 15.827658999999999,
+    "Pct_obesity": 5.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "116": {
+    "Country": "Congo",
+    "Latitude": -0.228021,
+    "Longitude": 15.827658999999999,
+    "Pct_obesity": 13.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "117": {
+    "Country": "Cook Islands",
+    "Latitude": -21.236735999999997,
+    "Longitude": -159.777671,
+    "Pct_obesity": 55.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "118": {
+    "Country": "Cook Islands",
+    "Latitude": -21.236735999999997,
+    "Longitude": -159.777671,
+    "Pct_obesity": 52.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "119": {
+    "Country": "Cook Islands",
+    "Latitude": -21.236735999999997,
+    "Longitude": -159.777671,
+    "Pct_obesity": 59.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "120": {
+    "Country": "Costa Rica",
+    "Latitude": 9.748917,
+    "Longitude": -83.753428,
+    "Pct_obesity": 25.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "121": {
+    "Country": "Costa Rica",
+    "Latitude": 9.748917,
+    "Longitude": -83.753428,
+    "Pct_obesity": 21.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "122": {
+    "Country": "Costa Rica",
+    "Latitude": 9.748917,
+    "Longitude": -83.753428,
+    "Pct_obesity": 30.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "123": {
+    "Country": "Croatia",
+    "Latitude": 45.1,
+    "Longitude": 15.2,
+    "Pct_obesity": 24.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "124": {
+    "Country": "Croatia",
+    "Latitude": 45.1,
+    "Longitude": 15.2,
+    "Pct_obesity": 24.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "125": {
+    "Country": "Croatia",
+    "Latitude": 45.1,
+    "Longitude": 15.2,
+    "Pct_obesity": 24.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "126": {
+    "Country": "Cuba",
+    "Latitude": 21.521757,
+    "Longitude": -77.78116700000001,
+    "Pct_obesity": 24.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "127": {
+    "Country": "Cuba",
+    "Latitude": 21.521757,
+    "Longitude": -77.78116700000001,
+    "Pct_obesity": 18.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "128": {
+    "Country": "Cuba",
+    "Latitude": 21.521757,
+    "Longitude": -77.78116700000001,
+    "Pct_obesity": 30.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "129": {
+    "Country": "Cyprus",
+    "Latitude": 35.126413,
+    "Longitude": 33.429859,
+    "Pct_obesity": 21.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "130": {
+    "Country": "Cyprus",
+    "Latitude": 35.126413,
+    "Longitude": 33.429859,
+    "Pct_obesity": 21.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "131": {
+    "Country": "Cyprus",
+    "Latitude": 35.126413,
+    "Longitude": 33.429859,
+    "Pct_obesity": 21.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "132": {
+    "Country": "Czech Republic",
+    "Latitude": 49.817492,
+    "Longitude": 15.472961999999999,
+    "Pct_obesity": 26,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "133": {
+    "Country": "Czech Republic",
+    "Latitude": 49.817492,
+    "Longitude": 15.472961999999999,
+    "Pct_obesity": 26.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "134": {
+    "Country": "Czech Republic",
+    "Latitude": 49.817492,
+    "Longitude": 15.472961999999999,
+    "Pct_obesity": 25.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "135": {
+    "Country": "Côte d'Ivoire",
+    "Latitude": 7.539989,
+    "Longitude": -5.54708,
+    "Pct_obesity": 10.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "136": {
+    "Country": "Côte d'Ivoire",
+    "Latitude": 7.539989,
+    "Longitude": -5.54708,
+    "Pct_obesity": 5.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "137": {
+    "Country": "Côte d'Ivoire",
+    "Latitude": 7.539989,
+    "Longitude": -5.54708,
+    "Pct_obesity": 15.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "138": {
+    "Country": "North Korea",
+    "Latitude": 40.339852,
+    "Longitude": 127.510093,
+    "Pct_obesity": 6.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "139": {
+    "Country": "North Korea",
+    "Latitude": 40.339852,
+    "Longitude": 127.510093,
+    "Pct_obesity": 6.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "140": {
+    "Country": "North Korea",
+    "Latitude": 40.339852,
+    "Longitude": 127.510093,
+    "Pct_obesity": 7.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "141": {
+    "Country": "Democratic Republic of the Congo",
+    "Latitude": -4.038333000000001,
+    "Longitude": 21.758664000000003,
+    "Pct_obesity": 6.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "142": {
+    "Country": "Democratic Republic of the Congo",
+    "Latitude": -4.038333000000001,
+    "Longitude": 21.758664000000003,
+    "Pct_obesity": 3.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "143": {
+    "Country": "Democratic Republic of the Congo",
+    "Latitude": -4.038333000000001,
+    "Longitude": 21.758664000000003,
+    "Pct_obesity": 9.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "144": {
+    "Country": "Denmark",
+    "Latitude": 56.26392,
+    "Longitude": 9.501785,
+    "Pct_obesity": 19.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "145": {
+    "Country": "Denmark",
+    "Latitude": 56.26392,
+    "Longitude": 9.501785,
+    "Pct_obesity": 22.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "146": {
+    "Country": "Denmark",
+    "Latitude": 56.26392,
+    "Longitude": 9.501785,
+    "Pct_obesity": 17,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "147": {
+    "Country": "Djibouti",
+    "Latitude": 11.825138,
+    "Longitude": 42.590275,
+    "Pct_obesity": 13.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "148": {
+    "Country": "Djibouti",
+    "Latitude": 11.825138,
+    "Longitude": 42.590275,
+    "Pct_obesity": 8.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "149": {
+    "Country": "Djibouti",
+    "Latitude": 11.825138,
+    "Longitude": 42.590275,
+    "Pct_obesity": 18.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "150": {
+    "Country": "Dominica",
+    "Latitude": 15.414999,
+    "Longitude": -61.370976,
+    "Pct_obesity": 27.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "151": {
+    "Country": "Dominica",
+    "Latitude": 15.414999,
+    "Longitude": -61.370976,
+    "Pct_obesity": 19.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "152": {
+    "Country": "Dominica",
+    "Latitude": 15.414999,
+    "Longitude": -61.370976,
+    "Pct_obesity": 35.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "153": {
+    "Country": "Dominican Republic",
+    "Latitude": 18.735692999999998,
+    "Longitude": -70.162651,
+    "Pct_obesity": 27.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "154": {
+    "Country": "Dominican Republic",
+    "Latitude": 18.735692999999998,
+    "Longitude": -70.162651,
+    "Pct_obesity": 21,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "155": {
+    "Country": "Dominican Republic",
+    "Latitude": 18.735692999999998,
+    "Longitude": -70.162651,
+    "Pct_obesity": 34.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "156": {
+    "Country": "Ecuador",
+    "Latitude": -1.8312389999999998,
+    "Longitude": -78.183406,
+    "Pct_obesity": 19.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "157": {
+    "Country": "Ecuador",
+    "Latitude": -1.8312389999999998,
+    "Longitude": -78.183406,
+    "Pct_obesity": 14.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "158": {
+    "Country": "Ecuador",
+    "Latitude": -1.8312389999999998,
+    "Longitude": -78.183406,
+    "Pct_obesity": 24.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "159": {
+    "Country": "Egypt",
+    "Latitude": 26.820553000000004,
+    "Longitude": 30.802497999999996,
+    "Pct_obesity": 32,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "160": {
+    "Country": "Egypt",
+    "Latitude": 26.820553000000004,
+    "Longitude": 30.802497999999996,
+    "Pct_obesity": 22.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "161": {
+    "Country": "Egypt",
+    "Latitude": 26.820553000000004,
+    "Longitude": 30.802497999999996,
+    "Pct_obesity": 41.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "162": {
+    "Country": "El Salvador",
+    "Latitude": 13.794185,
+    "Longitude": -88.89653,
+    "Pct_obesity": 24.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "163": {
+    "Country": "El Salvador",
+    "Latitude": 13.794185,
+    "Longitude": -88.89653,
+    "Pct_obesity": 18.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "164": {
+    "Country": "El Salvador",
+    "Latitude": 13.794185,
+    "Longitude": -88.89653,
+    "Pct_obesity": 28.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "165": {
+    "Country": "Equatorial Guinea",
+    "Latitude": 1.6508009999999997,
+    "Longitude": 10.267895,
+    "Pct_obesity": 8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "166": {
+    "Country": "Equatorial Guinea",
+    "Latitude": 1.6508009999999997,
+    "Longitude": 10.267895,
+    "Pct_obesity": 3.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "167": {
+    "Country": "Equatorial Guinea",
+    "Latitude": 1.6508009999999997,
+    "Longitude": 10.267895,
+    "Pct_obesity": 12.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "168": {
+    "Country": "Eritrea",
+    "Latitude": 15.179383999999999,
+    "Longitude": 39.782334000000006,
+    "Pct_obesity": 5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "169": {
+    "Country": "Eritrea",
+    "Latitude": 15.179383999999999,
+    "Longitude": 39.782334000000006,
+    "Pct_obesity": 2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "170": {
+    "Country": "Eritrea",
+    "Latitude": 15.179383999999999,
+    "Longitude": 39.782334000000006,
+    "Pct_obesity": 7.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "171": {
+    "Country": "Estonia",
+    "Latitude": 58.595271999999994,
+    "Longitude": 25.013607,
+    "Pct_obesity": 21.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "172": {
+    "Country": "Estonia",
+    "Latitude": 58.595271999999994,
+    "Longitude": 25.013607,
+    "Pct_obesity": 20.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "173": {
+    "Country": "Estonia",
+    "Latitude": 58.595271999999994,
+    "Longitude": 25.013607,
+    "Pct_obesity": 21.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "174": {
+    "Country": "Swaziland",
+    "Latitude": -26.522503000000004,
+    "Longitude": 31.465866,
+    "Pct_obesity": 16.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "175": {
+    "Country": "Swaziland",
+    "Latitude": -26.522503000000004,
+    "Longitude": 31.465866,
+    "Pct_obesity": 5.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "176": {
+    "Country": "Swaziland",
+    "Latitude": -26.522503000000004,
+    "Longitude": 31.465866,
+    "Pct_obesity": 26.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "177": {
+    "Country": "Ethiopia",
+    "Latitude": 9.145,
+    "Longitude": 40.489672999999996,
+    "Pct_obesity": 4.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "178": {
+    "Country": "Ethiopia",
+    "Latitude": 9.145,
+    "Longitude": 40.489672999999996,
+    "Pct_obesity": 1.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "179": {
+    "Country": "Ethiopia",
+    "Latitude": 9.145,
+    "Longitude": 40.489672999999996,
+    "Pct_obesity": 6.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "180": {
+    "Country": "Fiji",
+    "Latitude": -16.578193,
+    "Longitude": 179.414413,
+    "Pct_obesity": 30.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "181": {
+    "Country": "Fiji",
+    "Latitude": -16.578193,
+    "Longitude": 179.414413,
+    "Pct_obesity": 25.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "182": {
+    "Country": "Fiji",
+    "Latitude": -16.578193,
+    "Longitude": 179.414413,
+    "Pct_obesity": 35.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "183": {
+    "Country": "Finland",
+    "Latitude": 61.92411,
+    "Longitude": 25.748151,
+    "Pct_obesity": 22.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "184": {
+    "Country": "Finland",
+    "Latitude": 61.92411,
+    "Longitude": 25.748151,
+    "Pct_obesity": 23.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "185": {
+    "Country": "Finland",
+    "Latitude": 61.92411,
+    "Longitude": 25.748151,
+    "Pct_obesity": 20.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "186": {
+    "Country": "France",
+    "Latitude": 46.227638,
+    "Longitude": 2.213749,
+    "Pct_obesity": 21.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "187": {
+    "Country": "France",
+    "Latitude": 46.227638,
+    "Longitude": 2.213749,
+    "Pct_obesity": 22,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "188": {
+    "Country": "France",
+    "Latitude": 46.227638,
+    "Longitude": 2.213749,
+    "Pct_obesity": 21.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "189": {
+    "Country": "Gabon",
+    "Latitude": -0.803689,
+    "Longitude": 11.609444,
+    "Pct_obesity": 15,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "190": {
+    "Country": "Gabon",
+    "Latitude": -0.803689,
+    "Longitude": 11.609444,
+    "Pct_obesity": 9.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "191": {
+    "Country": "Gabon",
+    "Latitude": -0.803689,
+    "Longitude": 11.609444,
+    "Pct_obesity": 20.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "192": {
+    "Country": "Gambia",
+    "Latitude": 13.443182,
+    "Longitude": -15.310139000000001,
+    "Pct_obesity": 10.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "193": {
+    "Country": "Gambia",
+    "Latitude": 13.443182,
+    "Longitude": -15.310139000000001,
+    "Pct_obesity": 5.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "194": {
+    "Country": "Gambia",
+    "Latitude": 13.443182,
+    "Longitude": -15.310139000000001,
+    "Pct_obesity": 14.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "195": {
+    "Country": "Georgia",
+    "Latitude": 42.315407,
+    "Longitude": 43.356891999999995,
+    "Pct_obesity": 21.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "196": {
+    "Country": "Georgia",
+    "Latitude": 42.315407,
+    "Longitude": 43.356891999999995,
+    "Pct_obesity": 19.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "197": {
+    "Country": "Georgia",
+    "Latitude": 42.315407,
+    "Longitude": 43.356891999999995,
+    "Pct_obesity": 23.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "198": {
+    "Country": "Germany",
+    "Latitude": 51.165690999999995,
+    "Longitude": 10.451526,
+    "Pct_obesity": 22.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "199": {
+    "Country": "Germany",
+    "Latitude": 51.165690999999995,
+    "Longitude": 10.451526,
+    "Pct_obesity": 24.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "200": {
+    "Country": "Germany",
+    "Latitude": 51.165690999999995,
+    "Longitude": 10.451526,
+    "Pct_obesity": 20.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "201": {
+    "Country": "Ghana",
+    "Latitude": 7.946527000000001,
+    "Longitude": -1.0231940000000002,
+    "Pct_obesity": 10.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "202": {
+    "Country": "Ghana",
+    "Latitude": 7.946527000000001,
+    "Longitude": -1.0231940000000002,
+    "Pct_obesity": 4.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "203": {
+    "Country": "Ghana",
+    "Latitude": 7.946527000000001,
+    "Longitude": -1.0231940000000002,
+    "Pct_obesity": 16.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "204": {
+    "Country": "Greece",
+    "Latitude": 39.074208,
+    "Longitude": 21.824312,
+    "Pct_obesity": 24.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "205": {
+    "Country": "Greece",
+    "Latitude": 39.074208,
+    "Longitude": 21.824312,
+    "Pct_obesity": 24.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "206": {
+    "Country": "Greece",
+    "Latitude": 39.074208,
+    "Longitude": 21.824312,
+    "Pct_obesity": 25.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "207": {
+    "Country": "Grenada",
+    "Latitude": 12.262775999999999,
+    "Longitude": -61.604170999999994,
+    "Pct_obesity": 21.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "208": {
+    "Country": "Grenada",
+    "Latitude": 12.262775999999999,
+    "Longitude": -61.604170999999994,
+    "Pct_obesity": 13.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "209": {
+    "Country": "Grenada",
+    "Latitude": 12.262775999999999,
+    "Longitude": -61.604170999999994,
+    "Pct_obesity": 29,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "210": {
+    "Country": "Guatemala",
+    "Latitude": 15.783470999999999,
+    "Longitude": -90.23075899999999,
+    "Pct_obesity": 21.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "211": {
+    "Country": "Guatemala",
+    "Latitude": 15.783470999999999,
+    "Longitude": -90.23075899999999,
+    "Pct_obesity": 15.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "212": {
+    "Country": "Guatemala",
+    "Latitude": 15.783470999999999,
+    "Longitude": -90.23075899999999,
+    "Pct_obesity": 26.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "213": {
+    "Country": "Guinea",
+    "Latitude": 9.945587,
+    "Longitude": -9.696645,
+    "Pct_obesity": 7.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "214": {
+    "Country": "Guinea",
+    "Latitude": 9.945587,
+    "Longitude": -9.696645,
+    "Pct_obesity": 3.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "215": {
+    "Country": "Guinea",
+    "Latitude": 9.945587,
+    "Longitude": -9.696645,
+    "Pct_obesity": 11.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "216": {
+    "Country": "Guinea-Bissau",
+    "Latitude": 11.803749,
+    "Longitude": -15.180413,
+    "Pct_obesity": 9.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "217": {
+    "Country": "Guinea-Bissau",
+    "Latitude": 11.803749,
+    "Longitude": -15.180413,
+    "Pct_obesity": 5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "218": {
+    "Country": "Guinea-Bissau",
+    "Latitude": 11.803749,
+    "Longitude": -15.180413,
+    "Pct_obesity": 13.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "219": {
+    "Country": "Guyana",
+    "Latitude": 4.860416000000001,
+    "Longitude": -58.93018000000001,
+    "Pct_obesity": 20.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "220": {
+    "Country": "Guyana",
+    "Latitude": 4.860416000000001,
+    "Longitude": -58.93018000000001,
+    "Pct_obesity": 12.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "221": {
+    "Country": "Guyana",
+    "Latitude": 4.860416000000001,
+    "Longitude": -58.93018000000001,
+    "Pct_obesity": 27.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "222": {
+    "Country": "Haiti",
+    "Latitude": 18.971187,
+    "Longitude": -72.28521500000001,
+    "Pct_obesity": 22.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "223": {
+    "Country": "Haiti",
+    "Latitude": 18.971187,
+    "Longitude": -72.28521500000001,
+    "Pct_obesity": 17.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "224": {
+    "Country": "Haiti",
+    "Latitude": 18.971187,
+    "Longitude": -72.28521500000001,
+    "Pct_obesity": 26.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "225": {
+    "Country": "Honduras",
+    "Latitude": 15.199998999999998,
+    "Longitude": -86.241905,
+    "Pct_obesity": 21.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "226": {
+    "Country": "Honduras",
+    "Latitude": 15.199998999999998,
+    "Longitude": -86.241905,
+    "Pct_obesity": 15.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "227": {
+    "Country": "Honduras",
+    "Latitude": 15.199998999999998,
+    "Longitude": -86.241905,
+    "Pct_obesity": 26.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "228": {
+    "Country": "Hungary",
+    "Latitude": 47.162494,
+    "Longitude": 19.503304,
+    "Pct_obesity": 26.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "229": {
+    "Country": "Hungary",
+    "Latitude": 47.162494,
+    "Longitude": 19.503304,
+    "Pct_obesity": 28.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "230": {
+    "Country": "Hungary",
+    "Latitude": 47.162494,
+    "Longitude": 19.503304,
+    "Pct_obesity": 24.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "231": {
+    "Country": "Iceland",
+    "Latitude": 64.96305100000001,
+    "Longitude": -19.020835,
+    "Pct_obesity": 21.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "232": {
+    "Country": "Iceland",
+    "Latitude": 64.96305100000001,
+    "Longitude": -19.020835,
+    "Pct_obesity": 24.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "233": {
+    "Country": "Iceland",
+    "Latitude": 64.96305100000001,
+    "Longitude": -19.020835,
+    "Pct_obesity": 19.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "234": {
+    "Country": "India",
+    "Latitude": 20.593684,
+    "Longitude": 78.96288,
+    "Pct_obesity": 3.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "235": {
+    "Country": "India",
+    "Latitude": 20.593684,
+    "Longitude": 78.96288,
+    "Pct_obesity": 2.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "236": {
+    "Country": "India",
+    "Latitude": 20.593684,
+    "Longitude": 78.96288,
+    "Pct_obesity": 5.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "237": {
+    "Country": "Indonesia",
+    "Latitude": -0.789275,
+    "Longitude": 113.921327,
+    "Pct_obesity": 6.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "238": {
+    "Country": "Indonesia",
+    "Latitude": -0.789275,
+    "Longitude": 113.921327,
+    "Pct_obesity": 4.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "239": {
+    "Country": "Indonesia",
+    "Latitude": -0.789275,
+    "Longitude": 113.921327,
+    "Pct_obesity": 8.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "240": {
+    "Country": "Iran",
+    "Latitude": 32.427908,
+    "Longitude": 53.68804599999999,
+    "Pct_obesity": 25.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "241": {
+    "Country": "Iran",
+    "Latitude": 32.427908,
+    "Longitude": 53.68804599999999,
+    "Pct_obesity": 19.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "242": {
+    "Country": "Iran",
+    "Latitude": 32.427908,
+    "Longitude": 53.68804599999999,
+    "Pct_obesity": 32.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "243": {
+    "Country": "Iraq",
+    "Latitude": 33.223191,
+    "Longitude": 43.679291,
+    "Pct_obesity": 30.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "244": {
+    "Country": "Iraq",
+    "Latitude": 33.223191,
+    "Longitude": 43.679291,
+    "Pct_obesity": 23.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "245": {
+    "Country": "Iraq",
+    "Latitude": 33.223191,
+    "Longitude": 43.679291,
+    "Pct_obesity": 37,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "246": {
+    "Country": "Ireland",
+    "Latitude": 53.41291,
+    "Longitude": -8.243889999999999,
+    "Pct_obesity": 25.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "247": {
+    "Country": "Ireland",
+    "Latitude": 53.41291,
+    "Longitude": -8.243889999999999,
+    "Pct_obesity": 25.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "248": {
+    "Country": "Ireland",
+    "Latitude": 53.41291,
+    "Longitude": -8.243889999999999,
+    "Pct_obesity": 25.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "249": {
+    "Country": "Israel",
+    "Latitude": 31.046051000000002,
+    "Longitude": 34.851612,
+    "Pct_obesity": 26.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "250": {
+    "Country": "Israel",
+    "Latitude": 31.046051000000002,
+    "Longitude": 34.851612,
+    "Pct_obesity": 25.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "251": {
+    "Country": "Israel",
+    "Latitude": 31.046051000000002,
+    "Longitude": 34.851612,
+    "Pct_obesity": 26.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "252": {
+    "Country": "Italy",
+    "Latitude": 41.87194,
+    "Longitude": 12.56738,
+    "Pct_obesity": 19.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "253": {
+    "Country": "Italy",
+    "Latitude": 41.87194,
+    "Longitude": 12.56738,
+    "Pct_obesity": 20.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "254": {
+    "Country": "Italy",
+    "Latitude": 41.87194,
+    "Longitude": 12.56738,
+    "Pct_obesity": 19.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "255": {
+    "Country": "Jamaica",
+    "Latitude": 18.109581,
+    "Longitude": -77.297508,
+    "Pct_obesity": 24.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "256": {
+    "Country": "Jamaica",
+    "Latitude": 18.109581,
+    "Longitude": -77.297508,
+    "Pct_obesity": 15.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "257": {
+    "Country": "Jamaica",
+    "Latitude": 18.109581,
+    "Longitude": -77.297508,
+    "Pct_obesity": 33.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "258": {
+    "Country": "Japan",
+    "Latitude": 36.204824,
+    "Longitude": 138.252924,
+    "Pct_obesity": 4.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "259": {
+    "Country": "Japan",
+    "Latitude": 36.204824,
+    "Longitude": 138.252924,
+    "Pct_obesity": 4.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "260": {
+    "Country": "Japan",
+    "Latitude": 36.204824,
+    "Longitude": 138.252924,
+    "Pct_obesity": 3.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "261": {
+    "Country": "Jordan",
+    "Latitude": 30.585164000000002,
+    "Longitude": 36.238414,
+    "Pct_obesity": 35.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "262": {
+    "Country": "Jordan",
+    "Latitude": 30.585164000000002,
+    "Longitude": 36.238414,
+    "Pct_obesity": 28.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "263": {
+    "Country": "Jordan",
+    "Latitude": 30.585164000000002,
+    "Longitude": 36.238414,
+    "Pct_obesity": 43.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "264": {
+    "Country": "Kazakhstan",
+    "Latitude": 48.019573,
+    "Longitude": 66.923684,
+    "Pct_obesity": 21,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "265": {
+    "Country": "Kazakhstan",
+    "Latitude": 48.019573,
+    "Longitude": 66.923684,
+    "Pct_obesity": 18.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "266": {
+    "Country": "Kazakhstan",
+    "Latitude": 48.019573,
+    "Longitude": 66.923684,
+    "Pct_obesity": 22.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "267": {
+    "Country": "Kenya",
+    "Latitude": -0.023559,
+    "Longitude": 37.906193,
+    "Pct_obesity": 7.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "268": {
+    "Country": "Kenya",
+    "Latitude": -0.023559,
+    "Longitude": 37.906193,
+    "Pct_obesity": 2.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "269": {
+    "Country": "Kenya",
+    "Latitude": -0.023559,
+    "Longitude": 37.906193,
+    "Pct_obesity": 11.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "270": {
+    "Country": "Kiribati",
+    "Latitude": -3.3704169999999998,
+    "Longitude": -168.734039,
+    "Pct_obesity": 46,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "271": {
+    "Country": "Kiribati",
+    "Latitude": -3.3704169999999998,
+    "Longitude": -168.734039,
+    "Pct_obesity": 41.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "272": {
+    "Country": "Kiribati",
+    "Latitude": -3.3704169999999998,
+    "Longitude": -168.734039,
+    "Pct_obesity": 50.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "273": {
+    "Country": "Kuwait",
+    "Latitude": 29.311659999999996,
+    "Longitude": 47.481766,
+    "Pct_obesity": 37.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "274": {
+    "Country": "Kuwait",
+    "Latitude": 29.311659999999996,
+    "Longitude": 47.481766,
+    "Pct_obesity": 33.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "275": {
+    "Country": "Kuwait",
+    "Latitude": 29.311659999999996,
+    "Longitude": 47.481766,
+    "Pct_obesity": 45.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "276": {
+    "Country": "Kyrgyzstan",
+    "Latitude": 41.20438,
+    "Longitude": 74.766098,
+    "Pct_obesity": 16.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "277": {
+    "Country": "Kyrgyzstan",
+    "Latitude": 41.20438,
+    "Longitude": 74.766098,
+    "Pct_obesity": 14,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "278": {
+    "Country": "Kyrgyzstan",
+    "Latitude": 41.20438,
+    "Longitude": 74.766098,
+    "Pct_obesity": 18.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "279": {
+    "Country": "Laos",
+    "Latitude": 19.856270000000002,
+    "Longitude": 102.495496,
+    "Pct_obesity": 5.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "280": {
+    "Country": "Laos",
+    "Latitude": 19.856270000000002,
+    "Longitude": 102.495496,
+    "Pct_obesity": 3.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "281": {
+    "Country": "Laos",
+    "Latitude": 19.856270000000002,
+    "Longitude": 102.495496,
+    "Pct_obesity": 6.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "282": {
+    "Country": "Latvia",
+    "Latitude": 56.879635,
+    "Longitude": 24.603189,
+    "Pct_obesity": 23.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "283": {
+    "Country": "Latvia",
+    "Latitude": 56.879635,
+    "Longitude": 24.603189,
+    "Pct_obesity": 21.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "284": {
+    "Country": "Latvia",
+    "Latitude": 56.879635,
+    "Longitude": 24.603189,
+    "Pct_obesity": 25.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "285": {
+    "Country": "Lebanon",
+    "Latitude": 33.854721000000005,
+    "Longitude": 35.862285,
+    "Pct_obesity": 32,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "286": {
+    "Country": "Lebanon",
+    "Latitude": 33.854721000000005,
+    "Longitude": 35.862285,
+    "Pct_obesity": 27.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "287": {
+    "Country": "Lebanon",
+    "Latitude": 33.854721000000005,
+    "Longitude": 35.862285,
+    "Pct_obesity": 37,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "288": {
+    "Country": "Lesotho",
+    "Latitude": -29.609988,
+    "Longitude": 28.233608,
+    "Pct_obesity": 16.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "289": {
+    "Country": "Lesotho",
+    "Latitude": -29.609988,
+    "Longitude": 28.233608,
+    "Pct_obesity": 4.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "290": {
+    "Country": "Lesotho",
+    "Latitude": -29.609988,
+    "Longitude": 28.233608,
+    "Pct_obesity": 26.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "291": {
+    "Country": "Liberia",
+    "Latitude": 6.4280550000000005,
+    "Longitude": -9.429499,
+    "Pct_obesity": 9.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "292": {
+    "Country": "Liberia",
+    "Latitude": 6.4280550000000005,
+    "Longitude": -9.429499,
+    "Pct_obesity": 5.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "293": {
+    "Country": "Liberia",
+    "Latitude": 6.4280550000000005,
+    "Longitude": -9.429499,
+    "Pct_obesity": 14.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "294": {
+    "Country": "Libya",
+    "Latitude": 26.3351,
+    "Longitude": 17.228331,
+    "Pct_obesity": 32.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "295": {
+    "Country": "Libya",
+    "Latitude": 26.3351,
+    "Longitude": 17.228331,
+    "Pct_obesity": 25,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "296": {
+    "Country": "Libya",
+    "Latitude": 26.3351,
+    "Longitude": 17.228331,
+    "Pct_obesity": 39.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "297": {
+    "Country": "Lithuania",
+    "Latitude": 55.169438,
+    "Longitude": 23.881275,
+    "Pct_obesity": 26.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "298": {
+    "Country": "Lithuania",
+    "Latitude": 55.169438,
+    "Longitude": 23.881275,
+    "Pct_obesity": 24.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "299": {
+    "Country": "Lithuania",
+    "Latitude": 55.169438,
+    "Longitude": 23.881275,
+    "Pct_obesity": 27.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "300": {
+    "Country": "Luxembourg",
+    "Latitude": 49.815273,
+    "Longitude": 6.129583,
+    "Pct_obesity": 22.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "301": {
+    "Country": "Luxembourg",
+    "Latitude": 49.815273,
+    "Longitude": 6.129583,
+    "Pct_obesity": 24.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "302": {
+    "Country": "Luxembourg",
+    "Latitude": 49.815273,
+    "Longitude": 6.129583,
+    "Pct_obesity": 20.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "303": {
+    "Country": "Madagascar",
+    "Latitude": -18.766947000000002,
+    "Longitude": 46.869107,
+    "Pct_obesity": 5.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "304": {
+    "Country": "Madagascar",
+    "Latitude": -18.766947000000002,
+    "Longitude": 46.869107,
+    "Pct_obesity": 3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "305": {
+    "Country": "Madagascar",
+    "Latitude": -18.766947000000002,
+    "Longitude": 46.869107,
+    "Pct_obesity": 7.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "306": {
+    "Country": "Malawi",
+    "Latitude": -13.254307999999998,
+    "Longitude": 34.301525,
+    "Pct_obesity": 5.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "307": {
+    "Country": "Malawi",
+    "Latitude": -13.254307999999998,
+    "Longitude": 34.301525,
+    "Pct_obesity": 2.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "308": {
+    "Country": "Malawi",
+    "Latitude": -13.254307999999998,
+    "Longitude": 34.301525,
+    "Pct_obesity": 9.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "309": {
+    "Country": "Malaysia",
+    "Latitude": 4.210483999999999,
+    "Longitude": 101.97576600000001,
+    "Pct_obesity": 15.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "310": {
+    "Country": "Malaysia",
+    "Latitude": 4.210483999999999,
+    "Longitude": 101.97576600000001,
+    "Pct_obesity": 13,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "311": {
+    "Country": "Malaysia",
+    "Latitude": 4.210483999999999,
+    "Longitude": 101.97576600000001,
+    "Pct_obesity": 17.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "312": {
+    "Country": "Maldives",
+    "Latitude": 3.202778,
+    "Longitude": 73.22068,
+    "Pct_obesity": 8.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "313": {
+    "Country": "Maldives",
+    "Latitude": 3.202778,
+    "Longitude": 73.22068,
+    "Pct_obesity": 5.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "314": {
+    "Country": "Maldives",
+    "Latitude": 3.202778,
+    "Longitude": 73.22068,
+    "Pct_obesity": 11.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "315": {
+    "Country": "Mali",
+    "Latitude": 17.570692,
+    "Longitude": -3.9961660000000006,
+    "Pct_obesity": 8.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "316": {
+    "Country": "Mali",
+    "Latitude": 17.570692,
+    "Longitude": -3.9961660000000006,
+    "Pct_obesity": 4.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "317": {
+    "Country": "Mali",
+    "Latitude": 17.570692,
+    "Longitude": -3.9961660000000006,
+    "Pct_obesity": 12.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "318": {
+    "Country": "Malta",
+    "Latitude": 35.937496,
+    "Longitude": 14.375416,
+    "Pct_obesity": 28.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "319": {
+    "Country": "Malta",
+    "Latitude": 35.937496,
+    "Longitude": 14.375416,
+    "Pct_obesity": 29.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "320": {
+    "Country": "Malta",
+    "Latitude": 35.937496,
+    "Longitude": 14.375416,
+    "Pct_obesity": 28.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "321": {
+    "Country": "Marshall Islands",
+    "Latitude": 7.131474000000001,
+    "Longitude": 171.184478,
+    "Pct_obesity": 52.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "322": {
+    "Country": "Marshall Islands",
+    "Latitude": 7.131474000000001,
+    "Longitude": 171.184478,
+    "Pct_obesity": 48.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "323": {
+    "Country": "Marshall Islands",
+    "Latitude": 7.131474000000001,
+    "Longitude": 171.184478,
+    "Pct_obesity": 57.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "324": {
+    "Country": "Mauritania",
+    "Latitude": 21.00789,
+    "Longitude": -10.940835,
+    "Pct_obesity": 12.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "325": {
+    "Country": "Mauritania",
+    "Latitude": 21.00789,
+    "Longitude": -10.940835,
+    "Pct_obesity": 6.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "326": {
+    "Country": "Mauritania",
+    "Latitude": 21.00789,
+    "Longitude": -10.940835,
+    "Pct_obesity": 18.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "327": {
+    "Country": "Mauritius",
+    "Latitude": -20.348404000000002,
+    "Longitude": 57.552152,
+    "Pct_obesity": 10.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "328": {
+    "Country": "Mauritius",
+    "Latitude": -20.348404000000002,
+    "Longitude": 57.552152,
+    "Pct_obesity": 5.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "329": {
+    "Country": "Mauritius",
+    "Latitude": -20.348404000000002,
+    "Longitude": 57.552152,
+    "Pct_obesity": 15.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "330": {
+    "Country": "Mexico",
+    "Latitude": 23.634501,
+    "Longitude": -102.552784,
+    "Pct_obesity": 28.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "331": {
+    "Country": "Mexico",
+    "Latitude": 23.634501,
+    "Longitude": -102.552784,
+    "Pct_obesity": 24.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "332": {
+    "Country": "Mexico",
+    "Latitude": 23.634501,
+    "Longitude": -102.552784,
+    "Pct_obesity": 32.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "333": {
+    "Country": "Micronesia",
+    "Latitude": 7.425553999999999,
+    "Longitude": 150.550812,
+    "Pct_obesity": 45.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "334": {
+    "Country": "Micronesia",
+    "Latitude": 7.425553999999999,
+    "Longitude": 150.550812,
+    "Pct_obesity": 40.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "335": {
+    "Country": "Micronesia",
+    "Latitude": 7.425553999999999,
+    "Longitude": 150.550812,
+    "Pct_obesity": 51.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "336": {
+    "Country": "Mongolia",
+    "Latitude": 46.862496,
+    "Longitude": 103.84665600000001,
+    "Pct_obesity": 20.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "337": {
+    "Country": "Mongolia",
+    "Latitude": 46.862496,
+    "Longitude": 103.84665600000001,
+    "Pct_obesity": 17.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "338": {
+    "Country": "Mongolia",
+    "Latitude": 46.862496,
+    "Longitude": 103.84665600000001,
+    "Pct_obesity": 23.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "339": {
+    "Country": "Montenegro",
+    "Latitude": 42.708678000000006,
+    "Longitude": 19.37439,
+    "Pct_obesity": 23.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "340": {
+    "Country": "Montenegro",
+    "Latitude": 42.708678000000006,
+    "Longitude": 19.37439,
+    "Pct_obesity": 23.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "341": {
+    "Country": "Montenegro",
+    "Latitude": 42.708678000000006,
+    "Longitude": 19.37439,
+    "Pct_obesity": 23.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "342": {
+    "Country": "Morocco",
+    "Latitude": 31.791702,
+    "Longitude": -7.09262,
+    "Pct_obesity": 26.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "343": {
+    "Country": "Morocco",
+    "Latitude": 31.791702,
+    "Longitude": -7.09262,
+    "Pct_obesity": 19.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "344": {
+    "Country": "Morocco",
+    "Latitude": 31.791702,
+    "Longitude": -7.09262,
+    "Pct_obesity": 32.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "345": {
+    "Country": "Mozambique",
+    "Latitude": -18.665695,
+    "Longitude": 35.529562,
+    "Pct_obesity": 7.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "346": {
+    "Country": "Mozambique",
+    "Latitude": -18.665695,
+    "Longitude": 35.529562,
+    "Pct_obesity": 3.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "347": {
+    "Country": "Mozambique",
+    "Latitude": -18.665695,
+    "Longitude": 35.529562,
+    "Pct_obesity": 10.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "348": {
+    "Country": "Myanmar [Bruma]",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 5.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "349": {
+    "Country": "Myanmar [Bruma]",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "350": {
+    "Country": "Myanmar [Bruma]",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 7.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "351": {
+    "Country": "Namibia",
+    "Latitude": -22.957639999999998,
+    "Longitude": 18.49041,
+    "Pct_obesity": 17.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "352": {
+    "Country": "Namibia",
+    "Latitude": -22.957639999999998,
+    "Longitude": 18.49041,
+    "Pct_obesity": 7.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "353": {
+    "Country": "Namibia",
+    "Latitude": -22.957639999999998,
+    "Longitude": 18.49041,
+    "Pct_obesity": 25.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "354": {
+    "Country": "Nauru",
+    "Latitude": -0.522778,
+    "Longitude": 166.931503,
+    "Pct_obesity": 61,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "355": {
+    "Country": "Nauru",
+    "Latitude": -0.522778,
+    "Longitude": 166.931503,
+    "Pct_obesity": 58.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "356": {
+    "Country": "Nauru",
+    "Latitude": -0.522778,
+    "Longitude": 166.931503,
+    "Pct_obesity": 63.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "357": {
+    "Country": "Nepal",
+    "Latitude": 28.394857000000002,
+    "Longitude": 84.12400799999999,
+    "Pct_obesity": 4.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "358": {
+    "Country": "Nepal",
+    "Latitude": 28.394857000000002,
+    "Longitude": 84.12400799999999,
+    "Pct_obesity": 2.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "359": {
+    "Country": "Nepal",
+    "Latitude": 28.394857000000002,
+    "Longitude": 84.12400799999999,
+    "Pct_obesity": 5.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "360": {
+    "Country": "Netherlands",
+    "Latitude": 52.132633,
+    "Longitude": 5.291266,
+    "Pct_obesity": 20.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "361": {
+    "Country": "Netherlands",
+    "Latitude": 52.132633,
+    "Longitude": 5.291266,
+    "Pct_obesity": 20.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "362": {
+    "Country": "Netherlands",
+    "Latitude": 52.132633,
+    "Longitude": 5.291266,
+    "Pct_obesity": 20,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "363": {
+    "Country": "New Zealand",
+    "Latitude": -40.900557,
+    "Longitude": 174.88597099999998,
+    "Pct_obesity": 30.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "364": {
+    "Country": "New Zealand",
+    "Latitude": -40.900557,
+    "Longitude": 174.88597099999998,
+    "Pct_obesity": 30.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "365": {
+    "Country": "New Zealand",
+    "Latitude": -40.900557,
+    "Longitude": 174.88597099999998,
+    "Pct_obesity": 31.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "366": {
+    "Country": "Nicaragua",
+    "Latitude": 12.865416,
+    "Longitude": -85.207229,
+    "Pct_obesity": 23.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "367": {
+    "Country": "Nicaragua",
+    "Latitude": 12.865416,
+    "Longitude": -85.207229,
+    "Pct_obesity": 17.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "368": {
+    "Country": "Nicaragua",
+    "Latitude": 12.865416,
+    "Longitude": -85.207229,
+    "Pct_obesity": 29,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "369": {
+    "Country": "Niger",
+    "Latitude": 17.607789,
+    "Longitude": 8.081666,
+    "Pct_obesity": 5.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "370": {
+    "Country": "Niger",
+    "Latitude": 17.607789,
+    "Longitude": 8.081666,
+    "Pct_obesity": 2.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "371": {
+    "Country": "Niger",
+    "Latitude": 17.607789,
+    "Longitude": 8.081666,
+    "Pct_obesity": 8.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "372": {
+    "Country": "Nigeria",
+    "Latitude": 9.081999,
+    "Longitude": 8.675277000000001,
+    "Pct_obesity": 8.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "373": {
+    "Country": "Nigeria",
+    "Latitude": 9.081999,
+    "Longitude": 8.675277000000001,
+    "Pct_obesity": 4.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "374": {
+    "Country": "Nigeria",
+    "Latitude": 9.081999,
+    "Longitude": 8.675277000000001,
+    "Pct_obesity": 13.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "375": {
+    "Country": "Niue",
+    "Latitude": -19.054445,
+    "Longitude": -169.867233,
+    "Pct_obesity": 50,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "376": {
+    "Country": "Niue",
+    "Latitude": -19.054445,
+    "Longitude": -169.867233,
+    "Pct_obesity": 44.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "377": {
+    "Country": "Niue",
+    "Latitude": -19.054445,
+    "Longitude": -169.867233,
+    "Pct_obesity": 55.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "378": {
+    "Country": "Norway",
+    "Latitude": 60.472024,
+    "Longitude": 8.468946,
+    "Pct_obesity": 23.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "379": {
+    "Country": "Norway",
+    "Latitude": 60.472024,
+    "Longitude": 8.468946,
+    "Pct_obesity": 23.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "380": {
+    "Country": "Norway",
+    "Latitude": 60.472024,
+    "Longitude": 8.468946,
+    "Pct_obesity": 22.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "381": {
+    "Country": "Oman",
+    "Latitude": 21.512583,
+    "Longitude": 55.923255000000005,
+    "Pct_obesity": 27,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "382": {
+    "Country": "Oman",
+    "Latitude": 21.512583,
+    "Longitude": 55.923255000000005,
+    "Pct_obesity": 22.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "383": {
+    "Country": "Oman",
+    "Latitude": 21.512583,
+    "Longitude": 55.923255000000005,
+    "Pct_obesity": 33.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "384": {
+    "Country": "Pakistan",
+    "Latitude": 30.375321000000003,
+    "Longitude": 69.345116,
+    "Pct_obesity": 8.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "385": {
+    "Country": "Pakistan",
+    "Latitude": 30.375321000000003,
+    "Longitude": 69.345116,
+    "Pct_obesity": 6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "386": {
+    "Country": "Pakistan",
+    "Latitude": 30.375321000000003,
+    "Longitude": 69.345116,
+    "Pct_obesity": 11.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "387": {
+    "Country": "Palau",
+    "Latitude": 7.51498,
+    "Longitude": 134.58252,
+    "Pct_obesity": 55.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "388": {
+    "Country": "Palau",
+    "Latitude": 7.51498,
+    "Longitude": 134.58252,
+    "Pct_obesity": 51.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "389": {
+    "Country": "Palau",
+    "Latitude": 7.51498,
+    "Longitude": 134.58252,
+    "Pct_obesity": 58.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "390": {
+    "Country": "Panama",
+    "Latitude": 8.537981,
+    "Longitude": -80.782127,
+    "Pct_obesity": 22.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "391": {
+    "Country": "Panama",
+    "Latitude": 8.537981,
+    "Longitude": -80.782127,
+    "Pct_obesity": 17.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "392": {
+    "Country": "Panama",
+    "Latitude": 8.537981,
+    "Longitude": -80.782127,
+    "Pct_obesity": 27.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "393": {
+    "Country": "Papua New Guinea",
+    "Latitude": -6.314993,
+    "Longitude": 143.95555,
+    "Pct_obesity": 21.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "394": {
+    "Country": "Papua New Guinea",
+    "Latitude": -6.314993,
+    "Longitude": 143.95555,
+    "Pct_obesity": 16.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "395": {
+    "Country": "Papua New Guinea",
+    "Latitude": -6.314993,
+    "Longitude": 143.95555,
+    "Pct_obesity": 25.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "396": {
+    "Country": "Paraguay",
+    "Latitude": -23.442503,
+    "Longitude": -58.44383199999999,
+    "Pct_obesity": 20.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "397": {
+    "Country": "Paraguay",
+    "Latitude": -23.442503,
+    "Longitude": -58.44383199999999,
+    "Pct_obesity": 17.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "398": {
+    "Country": "Paraguay",
+    "Latitude": -23.442503,
+    "Longitude": -58.44383199999999,
+    "Pct_obesity": 23.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "399": {
+    "Country": "Peru",
+    "Latitude": -9.189967,
+    "Longitude": -75.015152,
+    "Pct_obesity": 19.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "400": {
+    "Country": "Peru",
+    "Latitude": -9.189967,
+    "Longitude": -75.015152,
+    "Pct_obesity": 15.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "401": {
+    "Country": "Peru",
+    "Latitude": -9.189967,
+    "Longitude": -75.015152,
+    "Pct_obesity": 24.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "402": {
+    "Country": "Philippines",
+    "Latitude": 12.879721,
+    "Longitude": 121.77401699999999,
+    "Pct_obesity": 6.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "403": {
+    "Country": "Philippines",
+    "Latitude": 12.879721,
+    "Longitude": 121.77401699999999,
+    "Pct_obesity": 5.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "404": {
+    "Country": "Philippines",
+    "Latitude": 12.879721,
+    "Longitude": 121.77401699999999,
+    "Pct_obesity": 7.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "405": {
+    "Country": "Poland",
+    "Latitude": 51.919438,
+    "Longitude": 19.145135999999997,
+    "Pct_obesity": 23.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "406": {
+    "Country": "Poland",
+    "Latitude": 51.919438,
+    "Longitude": 19.145135999999997,
+    "Pct_obesity": 23.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "407": {
+    "Country": "Poland",
+    "Latitude": 51.919438,
+    "Longitude": 19.145135999999997,
+    "Pct_obesity": 22.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "408": {
+    "Country": "Portugal",
+    "Latitude": 39.399871999999995,
+    "Longitude": -8.224454,
+    "Pct_obesity": 20.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "409": {
+    "Country": "Portugal",
+    "Latitude": 39.399871999999995,
+    "Longitude": -8.224454,
+    "Pct_obesity": 20.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "410": {
+    "Country": "Portugal",
+    "Latitude": 39.399871999999995,
+    "Longitude": -8.224454,
+    "Pct_obesity": 21.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "411": {
+    "Country": "Qatar",
+    "Latitude": 25.354826,
+    "Longitude": 51.183884,
+    "Pct_obesity": 35.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "412": {
+    "Country": "Qatar",
+    "Latitude": 25.354826,
+    "Longitude": 51.183884,
+    "Pct_obesity": 32.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "413": {
+    "Country": "Qatar",
+    "Latitude": 25.354826,
+    "Longitude": 51.183884,
+    "Pct_obesity": 43.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "414": {
+    "Country": "South Korea",
+    "Latitude": 35.907757000000004,
+    "Longitude": 127.766922,
+    "Pct_obesity": 4.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "415": {
+    "Country": "South Korea",
+    "Latitude": 35.907757000000004,
+    "Longitude": 127.766922,
+    "Pct_obesity": 4.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "416": {
+    "Country": "South Korea",
+    "Latitude": 35.907757000000004,
+    "Longitude": 127.766922,
+    "Pct_obesity": 4.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "417": {
+    "Country": "Moldova",
+    "Latitude": 47.411631,
+    "Longitude": 28.369884999999996,
+    "Pct_obesity": 18.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "418": {
+    "Country": "Moldova",
+    "Latitude": 47.411631,
+    "Longitude": 28.369884999999996,
+    "Pct_obesity": 16.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "419": {
+    "Country": "Moldova",
+    "Latitude": 47.411631,
+    "Longitude": 28.369884999999996,
+    "Pct_obesity": 21.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "420": {
+    "Country": "Macedonia",
+    "Latitude": 41.608635,
+    "Longitude": 21.745275,
+    "Pct_obesity": 22.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "421": {
+    "Country": "Macedonia",
+    "Latitude": 41.608635,
+    "Longitude": 21.745275,
+    "Pct_obesity": 22.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "422": {
+    "Country": "Macedonia",
+    "Latitude": 41.608635,
+    "Longitude": 21.745275,
+    "Pct_obesity": 22.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "423": {
+    "Country": "Romania",
+    "Latitude": 45.943160999999996,
+    "Longitude": 24.96676,
+    "Pct_obesity": 22.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "424": {
+    "Country": "Romania",
+    "Latitude": 45.943160999999996,
+    "Longitude": 24.96676,
+    "Pct_obesity": 23.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "425": {
+    "Country": "Romania",
+    "Latitude": 45.943160999999996,
+    "Longitude": 24.96676,
+    "Pct_obesity": 21.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "426": {
+    "Country": "Russia",
+    "Latitude": 61.52401,
+    "Longitude": 105.31875600000001,
+    "Pct_obesity": 23.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "427": {
+    "Country": "Russia",
+    "Latitude": 61.52401,
+    "Longitude": 105.31875600000001,
+    "Pct_obesity": 18.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "428": {
+    "Country": "Russia",
+    "Latitude": 61.52401,
+    "Longitude": 105.31875600000001,
+    "Pct_obesity": 26.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "429": {
+    "Country": "Rwanda",
+    "Latitude": -1.940278,
+    "Longitude": 29.873888,
+    "Pct_obesity": 5.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "430": {
+    "Country": "Rwanda",
+    "Latitude": -1.940278,
+    "Longitude": 29.873888,
+    "Pct_obesity": 1.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "431": {
+    "Country": "Rwanda",
+    "Latitude": -1.940278,
+    "Longitude": 29.873888,
+    "Pct_obesity": 9.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "432": {
+    "Country": "Saint Kitts and Nevis",
+    "Latitude": 17.357822,
+    "Longitude": -62.782998,
+    "Pct_obesity": 22.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "433": {
+    "Country": "Saint Kitts and Nevis",
+    "Latitude": 17.357822,
+    "Longitude": -62.782998,
+    "Pct_obesity": 15.3,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "434": {
+    "Country": "Saint Kitts and Nevis",
+    "Latitude": 17.357822,
+    "Longitude": -62.782998,
+    "Pct_obesity": 30.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "435": {
+    "Country": "Saint Lucia",
+    "Latitude": 13.909444,
+    "Longitude": -60.97889300000001,
+    "Pct_obesity": 19.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "436": {
+    "Country": "Saint Lucia",
+    "Latitude": 13.909444,
+    "Longitude": -60.97889300000001,
+    "Pct_obesity": 12,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "437": {
+    "Country": "Saint Lucia",
+    "Latitude": 13.909444,
+    "Longitude": -60.97889300000001,
+    "Pct_obesity": 27,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "438": {
+    "Country": "Saint Vincent and the Grenadines",
+    "Latitude": 12.984305,
+    "Longitude": -61.287228000000006,
+    "Pct_obesity": 23.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "439": {
+    "Country": "Saint Vincent and the Grenadines",
+    "Latitude": 12.984305,
+    "Longitude": -61.287228000000006,
+    "Pct_obesity": 16.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "440": {
+    "Country": "Saint Vincent and the Grenadines",
+    "Latitude": 12.984305,
+    "Longitude": -61.287228000000006,
+    "Pct_obesity": 31,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "441": {
+    "Country": "Samoa",
+    "Latitude": -13.759029,
+    "Longitude": -172.10462900000002,
+    "Pct_obesity": 47.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "442": {
+    "Country": "Samoa",
+    "Latitude": -13.759029,
+    "Longitude": -172.10462900000002,
+    "Pct_obesity": 39.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "443": {
+    "Country": "Samoa",
+    "Latitude": -13.759029,
+    "Longitude": -172.10462900000002,
+    "Pct_obesity": 55,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "444": {
+    "Country": "Sao Tome and Principe",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 12.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "445": {
+    "Country": "Sao Tome and Principe",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 7.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "446": {
+    "Country": "Sao Tome and Principe",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 16.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "447": {
+    "Country": "Saudi Arabia",
+    "Latitude": 23.885942,
+    "Longitude": 45.079162,
+    "Pct_obesity": 35.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "448": {
+    "Country": "Saudi Arabia",
+    "Latitude": 23.885942,
+    "Longitude": 45.079162,
+    "Pct_obesity": 30.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "449": {
+    "Country": "Saudi Arabia",
+    "Latitude": 23.885942,
+    "Longitude": 45.079162,
+    "Pct_obesity": 42.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "450": {
+    "Country": "Senegal",
+    "Latitude": 14.497401000000002,
+    "Longitude": -14.452361999999999,
+    "Pct_obesity": 8.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "451": {
+    "Country": "Senegal",
+    "Latitude": 14.497401000000002,
+    "Longitude": -14.452361999999999,
+    "Pct_obesity": 4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "452": {
+    "Country": "Senegal",
+    "Latitude": 14.497401000000002,
+    "Longitude": -14.452361999999999,
+    "Pct_obesity": 12.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "453": {
+    "Country": "Serbia",
+    "Latitude": 44.016521000000004,
+    "Longitude": 21.005859,
+    "Pct_obesity": 21.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "454": {
+    "Country": "Serbia",
+    "Latitude": 44.016521000000004,
+    "Longitude": 21.005859,
+    "Pct_obesity": 21.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "455": {
+    "Country": "Serbia",
+    "Latitude": 44.016521000000004,
+    "Longitude": 21.005859,
+    "Pct_obesity": 21.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "456": {
+    "Country": "Seychelles",
+    "Latitude": -4.679574,
+    "Longitude": 55.491977,
+    "Pct_obesity": 14,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "457": {
+    "Country": "Seychelles",
+    "Latitude": -4.679574,
+    "Longitude": 55.491977,
+    "Pct_obesity": 7.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "458": {
+    "Country": "Seychelles",
+    "Latitude": -4.679574,
+    "Longitude": 55.491977,
+    "Pct_obesity": 20.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "459": {
+    "Country": "Sierra Leone",
+    "Latitude": 8.460555000000001,
+    "Longitude": -11.779889,
+    "Pct_obesity": 8.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "460": {
+    "Country": "Sierra Leone",
+    "Latitude": 8.460555000000001,
+    "Longitude": -11.779889,
+    "Pct_obesity": 3.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "461": {
+    "Country": "Sierra Leone",
+    "Latitude": 8.460555000000001,
+    "Longitude": -11.779889,
+    "Pct_obesity": 13.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "462": {
+    "Country": "Singapore",
+    "Latitude": 1.352083,
+    "Longitude": 103.819836,
+    "Pct_obesity": 6.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "463": {
+    "Country": "Singapore",
+    "Latitude": 1.352083,
+    "Longitude": 103.819836,
+    "Pct_obesity": 5.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "464": {
+    "Country": "Singapore",
+    "Latitude": 1.352083,
+    "Longitude": 103.819836,
+    "Pct_obesity": 6.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "465": {
+    "Country": "Slovakia",
+    "Latitude": 48.669026,
+    "Longitude": 19.699023999999998,
+    "Pct_obesity": 20.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "466": {
+    "Country": "Slovakia",
+    "Latitude": 48.669026,
+    "Longitude": 19.699023999999998,
+    "Pct_obesity": 21,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "467": {
+    "Country": "Slovakia",
+    "Latitude": 48.669026,
+    "Longitude": 19.699023999999998,
+    "Pct_obesity": 19.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "468": {
+    "Country": "Slovenia",
+    "Latitude": 46.151241,
+    "Longitude": 14.995463,
+    "Pct_obesity": 20.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "469": {
+    "Country": "Slovenia",
+    "Latitude": 46.151241,
+    "Longitude": 14.995463,
+    "Pct_obesity": 19.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "470": {
+    "Country": "Slovenia",
+    "Latitude": 46.151241,
+    "Longitude": 14.995463,
+    "Pct_obesity": 21,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "471": {
+    "Country": "Solomon Islands",
+    "Latitude": -9.645710000000001,
+    "Longitude": 160.156194,
+    "Pct_obesity": 22.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "472": {
+    "Country": "Solomon Islands",
+    "Latitude": -9.645710000000001,
+    "Longitude": 160.156194,
+    "Pct_obesity": 17.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "473": {
+    "Country": "Solomon Islands",
+    "Latitude": -9.645710000000001,
+    "Longitude": 160.156194,
+    "Pct_obesity": 27.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "474": {
+    "Country": "Somalia",
+    "Latitude": 5.152149,
+    "Longitude": 46.199616,
+    "Pct_obesity": 8.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "475": {
+    "Country": "Somalia",
+    "Latitude": 5.152149,
+    "Longitude": 46.199616,
+    "Pct_obesity": 3.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "476": {
+    "Country": "Somalia",
+    "Latitude": 5.152149,
+    "Longitude": 46.199616,
+    "Pct_obesity": 12.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "477": {
+    "Country": "South Africa",
+    "Latitude": -30.559482,
+    "Longitude": 22.937506,
+    "Pct_obesity": 28.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "478": {
+    "Country": "South Africa",
+    "Latitude": -30.559482,
+    "Longitude": 22.937506,
+    "Pct_obesity": 15.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "479": {
+    "Country": "South Africa",
+    "Latitude": -30.559482,
+    "Longitude": 22.937506,
+    "Pct_obesity": 39.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "480": {
+    "Country": "Spain",
+    "Latitude": 40.463667,
+    "Longitude": -3.7492199999999998,
+    "Pct_obesity": 23.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "481": {
+    "Country": "Spain",
+    "Latitude": 40.463667,
+    "Longitude": -3.7492199999999998,
+    "Pct_obesity": 24.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "482": {
+    "Country": "Spain",
+    "Latitude": 40.463667,
+    "Longitude": -3.7492199999999998,
+    "Pct_obesity": 22.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "483": {
+    "Country": "Sri Lanka",
+    "Latitude": 7.873054,
+    "Longitude": 80.77179699999999,
+    "Pct_obesity": 5.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "484": {
+    "Country": "Sri Lanka",
+    "Latitude": 7.873054,
+    "Longitude": 80.77179699999999,
+    "Pct_obesity": 2.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "485": {
+    "Country": "Sri Lanka",
+    "Latitude": 7.873054,
+    "Longitude": 80.77179699999999,
+    "Pct_obesity": 7.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "486": {
+    "Country": "Sudan (former)",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 8.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "487": {
+    "Country": "Sudan (former)",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 3.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "488": {
+    "Country": "Sudan (former)",
+    "Latitude": null,
+    "Longitude": null,
+    "Pct_obesity": 12.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "489": {
+    "Country": "Suriname",
+    "Latitude": 3.9193050000000005,
+    "Longitude": -56.02778299999999,
+    "Pct_obesity": 26.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "490": {
+    "Country": "Suriname",
+    "Latitude": 3.9193050000000005,
+    "Longitude": -56.02778299999999,
+    "Pct_obesity": 18.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "491": {
+    "Country": "Suriname",
+    "Latitude": 3.9193050000000005,
+    "Longitude": -56.02778299999999,
+    "Pct_obesity": 33.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "492": {
+    "Country": "Sweden",
+    "Latitude": 60.128161,
+    "Longitude": 18.643501,
+    "Pct_obesity": 20.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "493": {
+    "Country": "Sweden",
+    "Latitude": 60.128161,
+    "Longitude": 18.643501,
+    "Pct_obesity": 23.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "494": {
+    "Country": "Sweden",
+    "Latitude": 60.128161,
+    "Longitude": 18.643501,
+    "Pct_obesity": 18.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "495": {
+    "Country": "Switzerland",
+    "Latitude": 46.818188,
+    "Longitude": 8.227511999999999,
+    "Pct_obesity": 19.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "496": {
+    "Country": "Switzerland",
+    "Latitude": 46.818188,
+    "Longitude": 8.227511999999999,
+    "Pct_obesity": 22.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "497": {
+    "Country": "Switzerland",
+    "Latitude": 46.818188,
+    "Longitude": 8.227511999999999,
+    "Pct_obesity": 16.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "498": {
+    "Country": "Syria",
+    "Latitude": 34.802075,
+    "Longitude": 38.996815000000005,
+    "Pct_obesity": 27.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "499": {
+    "Country": "Syria",
+    "Latitude": 34.802075,
+    "Longitude": 38.996815000000005,
+    "Pct_obesity": 20.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "500": {
+    "Country": "Syria",
+    "Latitude": 34.802075,
+    "Longitude": 38.996815000000005,
+    "Pct_obesity": 34.8,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "501": {
+    "Country": "Tajikistan",
+    "Latitude": 38.861034000000004,
+    "Longitude": 71.276093,
+    "Pct_obesity": 14.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "502": {
+    "Country": "Tajikistan",
+    "Latitude": 38.861034000000004,
+    "Longitude": 71.276093,
+    "Pct_obesity": 11.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "503": {
+    "Country": "Tajikistan",
+    "Latitude": 38.861034000000004,
+    "Longitude": 71.276093,
+    "Pct_obesity": 16.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "504": {
+    "Country": "Thailand",
+    "Latitude": 15.870032,
+    "Longitude": 100.992541,
+    "Pct_obesity": 10,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "505": {
+    "Country": "Thailand",
+    "Latitude": 15.870032,
+    "Longitude": 100.992541,
+    "Pct_obesity": 7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "506": {
+    "Country": "Thailand",
+    "Latitude": 15.870032,
+    "Longitude": 100.992541,
+    "Pct_obesity": 12.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "507": {
+    "Country": "Timor-Leste",
+    "Latitude": -8.874217,
+    "Longitude": 125.727539,
+    "Pct_obesity": 3.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "508": {
+    "Country": "Timor-Leste",
+    "Latitude": -8.874217,
+    "Longitude": 125.727539,
+    "Pct_obesity": 2.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "509": {
+    "Country": "Timor-Leste",
+    "Latitude": -8.874217,
+    "Longitude": 125.727539,
+    "Pct_obesity": 4.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "510": {
+    "Country": "Togo",
+    "Latitude": 8.619543,
+    "Longitude": 0.824782,
+    "Pct_obesity": 8.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "511": {
+    "Country": "Togo",
+    "Latitude": 8.619543,
+    "Longitude": 0.824782,
+    "Pct_obesity": 3.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "512": {
+    "Country": "Togo",
+    "Latitude": 8.619543,
+    "Longitude": 0.824782,
+    "Pct_obesity": 12.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "513": {
+    "Country": "Tonga",
+    "Latitude": -21.178986,
+    "Longitude": -175.198242,
+    "Pct_obesity": 48.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "514": {
+    "Country": "Tonga",
+    "Latitude": -21.178986,
+    "Longitude": -175.198242,
+    "Pct_obesity": 41.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "515": {
+    "Country": "Tonga",
+    "Latitude": -21.178986,
+    "Longitude": -175.198242,
+    "Pct_obesity": 54.5,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "516": {
+    "Country": "Trinidad and Tobago",
+    "Latitude": 10.691803,
+    "Longitude": -61.222503,
+    "Pct_obesity": 18.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "517": {
+    "Country": "Trinidad and Tobago",
+    "Latitude": 10.691803,
+    "Longitude": -61.222503,
+    "Pct_obesity": 10.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "518": {
+    "Country": "Trinidad and Tobago",
+    "Latitude": 10.691803,
+    "Longitude": -61.222503,
+    "Pct_obesity": 26,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "519": {
+    "Country": "Tunisia",
+    "Latitude": 33.886917,
+    "Longitude": 9.537499,
+    "Pct_obesity": 26.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "520": {
+    "Country": "Tunisia",
+    "Latitude": 33.886917,
+    "Longitude": 9.537499,
+    "Pct_obesity": 19.1,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "521": {
+    "Country": "Tunisia",
+    "Latitude": 33.886917,
+    "Longitude": 9.537499,
+    "Pct_obesity": 34.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "522": {
+    "Country": "Turkey",
+    "Latitude": 38.963745,
+    "Longitude": 35.243322,
+    "Pct_obesity": 32.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "523": {
+    "Country": "Turkey",
+    "Latitude": 38.963745,
+    "Longitude": 35.243322,
+    "Pct_obesity": 24.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "524": {
+    "Country": "Turkey",
+    "Latitude": 38.963745,
+    "Longitude": 35.243322,
+    "Pct_obesity": 39.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "525": {
+    "Country": "Turkmenistan",
+    "Latitude": 38.969719,
+    "Longitude": 59.556278000000006,
+    "Pct_obesity": 18.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "526": {
+    "Country": "Turkmenistan",
+    "Latitude": 38.969719,
+    "Longitude": 59.556278000000006,
+    "Pct_obesity": 15.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "527": {
+    "Country": "Turkmenistan",
+    "Latitude": 38.969719,
+    "Longitude": 59.556278000000006,
+    "Pct_obesity": 20.9,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "528": {
+    "Country": "Tuvalu",
+    "Latitude": -7.109535,
+    "Longitude": 177.64933,
+    "Pct_obesity": 51.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "529": {
+    "Country": "Tuvalu",
+    "Latitude": -7.109535,
+    "Longitude": 177.64933,
+    "Pct_obesity": 47,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "530": {
+    "Country": "Tuvalu",
+    "Latitude": -7.109535,
+    "Longitude": 177.64933,
+    "Pct_obesity": 56.2,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "531": {
+    "Country": "Uganda",
+    "Latitude": 1.373333,
+    "Longitude": 32.290275,
+    "Pct_obesity": 5.3,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "532": {
+    "Country": "Uganda",
+    "Latitude": 1.373333,
+    "Longitude": 32.290275,
+    "Pct_obesity": 1.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "533": {
+    "Country": "Uganda",
+    "Latitude": 1.373333,
+    "Longitude": 32.290275,
+    "Pct_obesity": 8.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "534": {
+    "Country": "Ukraine",
+    "Latitude": 48.379433,
+    "Longitude": 31.16558,
+    "Pct_obesity": 24.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "535": {
+    "Country": "Ukraine",
+    "Latitude": 48.379433,
+    "Longitude": 31.16558,
+    "Pct_obesity": 22,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "536": {
+    "Country": "Ukraine",
+    "Latitude": 48.379433,
+    "Longitude": 31.16558,
+    "Pct_obesity": 25.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "537": {
+    "Country": "United Arab Republic",
+    "Latitude": 23.424076,
+    "Longitude": 53.847818000000004,
+    "Pct_obesity": 31.7,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "538": {
+    "Country": "United Arab Republic",
+    "Latitude": 23.424076,
+    "Longitude": 53.847818000000004,
+    "Pct_obesity": 27.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "539": {
+    "Country": "United Arab Republic",
+    "Latitude": 23.424076,
+    "Longitude": 53.847818000000004,
+    "Pct_obesity": 41,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "540": {
+    "Country": "United Kingdom",
+    "Latitude": 55.378051,
+    "Longitude": -3.435973,
+    "Pct_obesity": 27.8,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "541": {
+    "Country": "United Kingdom",
+    "Latitude": 55.378051,
+    "Longitude": -3.435973,
+    "Pct_obesity": 26.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "542": {
+    "Country": "United Kingdom",
+    "Latitude": 55.378051,
+    "Longitude": -3.435973,
+    "Pct_obesity": 28.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "543": {
+    "Country": "Tanzania",
+    "Latitude": -6.369028,
+    "Longitude": 34.888822,
+    "Pct_obesity": 8.4,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "544": {
+    "Country": "Tanzania",
+    "Latitude": -6.369028,
+    "Longitude": 34.888822,
+    "Pct_obesity": 4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "545": {
+    "Country": "Tanzania",
+    "Latitude": -6.369028,
+    "Longitude": 34.888822,
+    "Pct_obesity": 12.7,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "546": {
+    "Country": "United States of America",
+    "Latitude": 37.09024,
+    "Longitude": -95.712891,
+    "Pct_obesity": 36.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "547": {
+    "Country": "United States of America",
+    "Latitude": 37.09024,
+    "Longitude": -95.712891,
+    "Pct_obesity": 35.5,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "548": {
+    "Country": "United States of America",
+    "Latitude": 37.09024,
+    "Longitude": -95.712891,
+    "Pct_obesity": 37,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "549": {
+    "Country": "Uruguay",
+    "Latitude": -32.522779,
+    "Longitude": -55.765834999999996,
+    "Pct_obesity": 27.9,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "550": {
+    "Country": "Uruguay",
+    "Latitude": -32.522779,
+    "Longitude": -55.765834999999996,
+    "Pct_obesity": 24.9,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "551": {
+    "Country": "Uruguay",
+    "Latitude": -32.522779,
+    "Longitude": -55.765834999999996,
+    "Pct_obesity": 30.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "552": {
+    "Country": "Uzbekistan",
+    "Latitude": 41.377491,
+    "Longitude": 64.585262,
+    "Pct_obesity": 16.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "553": {
+    "Country": "Uzbekistan",
+    "Latitude": 41.377491,
+    "Longitude": 64.585262,
+    "Pct_obesity": 13.8,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "554": {
+    "Country": "Uzbekistan",
+    "Latitude": 41.377491,
+    "Longitude": 64.585262,
+    "Pct_obesity": 19,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "555": {
+    "Country": "Vanuatu",
+    "Latitude": -15.376706,
+    "Longitude": 166.959158,
+    "Pct_obesity": 25.2,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "556": {
+    "Country": "Vanuatu",
+    "Latitude": -15.376706,
+    "Longitude": 166.959158,
+    "Pct_obesity": 20.2,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "557": {
+    "Country": "Vanuatu",
+    "Latitude": -15.376706,
+    "Longitude": 166.959158,
+    "Pct_obesity": 30.1,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "558": {
+    "Country": "Venezuela",
+    "Latitude": 6.42375,
+    "Longitude": -66.58973,
+    "Pct_obesity": 25.6,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "559": {
+    "Country": "Venezuela",
+    "Latitude": 6.42375,
+    "Longitude": -66.58973,
+    "Pct_obesity": 22.4,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "560": {
+    "Country": "Venezuela",
+    "Latitude": 6.42375,
+    "Longitude": -66.58973,
+    "Pct_obesity": 28.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "561": {
+    "Country": "Vietnam",
+    "Latitude": 14.058323999999999,
+    "Longitude": 108.277199,
+    "Pct_obesity": 2.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "562": {
+    "Country": "Vietnam",
+    "Latitude": 14.058323999999999,
+    "Longitude": 108.277199,
+    "Pct_obesity": 1.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "563": {
+    "Country": "Vietnam",
+    "Latitude": 14.058323999999999,
+    "Longitude": 108.277199,
+    "Pct_obesity": 2.6,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "564": {
+    "Country": "Yemen",
+    "Latitude": 15.552726999999999,
+    "Longitude": 48.516388,
+    "Pct_obesity": 17.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "565": {
+    "Country": "Yemen",
+    "Latitude": 15.552726999999999,
+    "Longitude": 48.516388,
+    "Pct_obesity": 12,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "566": {
+    "Country": "Yemen",
+    "Latitude": 15.552726999999999,
+    "Longitude": 48.516388,
+    "Pct_obesity": 22,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "567": {
+    "Country": "Zambia",
+    "Latitude": -13.133897,
+    "Longitude": 27.849332,
+    "Pct_obesity": 8.1,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "568": {
+    "Country": "Zambia",
+    "Latitude": -13.133897,
+    "Longitude": 27.849332,
+    "Pct_obesity": 3.6,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "569": {
+    "Country": "Zambia",
+    "Latitude": -13.133897,
+    "Longitude": 27.849332,
+    "Pct_obesity": 12.4,
+    "Sex": "Female",
+    "yr_id": 2016
+  },
+  "570": {
+    "Country": "Zimbabwe",
+    "Latitude": -19.015438,
+    "Longitude": 29.154857,
+    "Pct_obesity": 15.5,
+    "Sex": "Both sexes",
+    "yr_id": 2016
+  },
+  "571": {
+    "Country": "Zimbabwe",
+    "Latitude": -19.015438,
+    "Longitude": 29.154857,
+    "Pct_obesity": 4.7,
+    "Sex": "Male",
+    "yr_id": 2016
+  },
+  "572": {
+    "Country": "Zimbabwe",
+    "Latitude": -19.015438,
+    "Longitude": 29.154857,
+    "Pct_obesity": 25.3,
+    "Sex": "Female",
+    "yr_id": 2016
+  }
+}

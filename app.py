@@ -26,7 +26,8 @@ obesity_data_df = pd.read_csv(csvfile)
 print(obesity_data_df.head())
 obesity_data_df.reset_index(inplace=True)
 obesity_data_df.rename(columns={'index':'id'}, inplace=True)
-obesity_data_df.rename(columns={'Obesity (%)':'Pct_obesity'}, inplace=True)
+obesity_data_df.drop("id", axis=1, inplace=True)
+#obesity_data_df.rename(columns={'Obesity (%)':'Pct_obesity'}, inplace=True)
 print(obesity_data_df.head())
 
 rds_connection_string = "postgres:postgres@localhost:5432/project3"
@@ -66,13 +67,12 @@ def get_data():
     count = 0
     for row in obesity_data:
         obesity_data_dict[count] = ({
-        "id": row[0],
-        "Country": row[1],
-        "Latitude": row[2],
-        "Longitude": row[3],
-        "yr_id": row[4],
-        "Pct_obesity": row[5],
-        "Sex": row[6]
+        "cntry_name": row[0],
+        "latitude": row[1],
+        "longitude": row[2],
+        "yr_id": row[3],
+        "Obs_pct": row[4],
+        "sexid": row[5]
 
         })
         count += 1
@@ -81,12 +81,38 @@ def get_data():
     return(jsonify(obesity_data_dict))    
     #return render_template("chart.html")
 
+@app.route("/api/get_male_data")
+def get_male_data():
+       
+    session = Session(bind=engine)
+    execute_string = "select cntry_name, sum(\"Obs_pct\") from obesity_tbl where yr_id = 2016 and sexid='Male' group by 1 order by 2 desc limit 20;"
+    male_obesity_data = engine.execute(execute_string).fetchall()
+    session.close()
+    
+
+    # Form dictionary to return
+    obesity_male_data_dict = {}
+    count = 0
+    for row in male_obesity_data:
+        obesity_male_data_dict[count] = ({
+        "cntry_name": row[0],
+        "Obs_pct_sum": row[1]
+        })
+        count += 1
+    
+    # Return dictionary as a JSON file for JS processing
+    return(jsonify(obesity_male_data_dict))    
+    #return render_template("chart.html")
 
 @app.route("/barchart")
 def barchart():
     """Return the chart page."""
     return render_template("barchart.html")
 
+@app.route("/barcharts")
+def barcharts():
+    """Return the chart page."""
+    return render_template("barcharts.html")
 
 #@app.route("/map")
 #def index():
