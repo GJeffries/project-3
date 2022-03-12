@@ -8,14 +8,25 @@
     </head>
 <body>
     <div class="container mt-5 text-center">
-            
-        <h4>Obesity Interactive Chart</h4>
-        <p>You can toggle each series by clicking them in the legend, you can also hover items to see values, and zoom.</p>
+        <div class="text-center">
+            <h4>Obesity Interactive Chart</h4>
+            <!--<p>You can click and drag, and also scroll to zoom.</p>-->
+        </div>
+    </div>
+    <h5>Select Gender:</h5>       
+    <select id="selDataset" onchange="changeOption(this.value)">
+        <div class="text-left">
+        <option value="Male">Male Obesity Data</option>
+        <option value="Female">Female Obesity Data</option>
+    </div> 
+    </select>
+             
         <div id="myDiv"></div>
         <div class="text-center">
-            <p><b>Larger series may need to be toggled off to see smaller series</b></p>
+            
         </div>
-        </div>
+        
+
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="../static/js/barchart.js"></script>
@@ -23,3 +34,4 @@
     <p><a href="/">Back to home page</a></p>
 </body>
 </html>
+
