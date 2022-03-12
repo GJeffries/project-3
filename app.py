@@ -104,6 +104,73 @@ def get_male_data():
     return(jsonify(obesity_male_data_dict))    
     #return render_template("chart.html")
 
+@app.route("/api/get_female_data")
+def get_female_data():
+       
+    session = Session(bind=engine)
+    execute_string = "select cntry_name, sum(\"Obs_pct\") from obesity_tbl where yr_id = 2016 and sexid='Female' group by 1 order by 2 desc limit 20;"
+    female_obesity_data = engine.execute(execute_string).fetchall()
+    session.close()
+    
+
+    # Form dictionary to return
+    obesity_female_data_dict = {}
+    count = 0
+    for row in female_obesity_data:
+        obesity_female_data_dict[count] = ({
+        "cntry_name": row[0],
+        "Obs_pct_sum": row[1]
+        })
+        count += 1
+    
+    # Return dictionary as a JSON file for JS processing
+    return(jsonify(obesity_female_data_dict))    
+
+#@app.route("/api/get_gender")
+#def gender():
+#    df = ["Male", "Female"]
+#    return jsonify(df)
+
+@app.route("/api/get_gender/Male")
+def get_obsmale_data():
+
+    session = Session(bind=engine)
+    execute_string = "select cntry_name, sum(\"Obs_pct\") from obesity_tbl where yr_id = 2016 and sexid='Male' group by 1 order by 2 desc limit 20;"
+    obesity_data_male = engine.execute(execute_string).fetchall()
+    session.close()
+
+    # Form dictionary to return
+    obesity_data_dict_male = {}
+    count = 0
+    for row in obesity_data_male:
+        obesity_data_dict_male[count] = ({
+        "cntry_name": row[0],
+        "Obs_pct_sum": row[1]
+        })
+        count += 1
+    #retrun dictionary as JSON file for JS processing
+    return(jsonify(obesity_data_dict_male))
+
+@app.route("/api/get_gender/Female")
+def get_obsfemale_data():
+
+    session = Session(bind=engine)
+    execute_string = "select cntry_name, sum(\"Obs_pct\") from obesity_tbl where yr_id = 2016 and sexid='Female' group by 1 order by 2 desc limit 20;"
+    obesity_data_male = engine.execute(execute_string).fetchall()
+    session.close()
+
+    # Form dictionary to return
+    obesity_data_dict_Female = {}
+    count = 0
+    for row in obesity_data_male:
+        obesity_data_dict_Female[count] = ({
+        "cntry_name": row[0],
+        "Obs_pct_sum": row[1]
+        })
+        count += 1
+    #retrun dictionary as JSON file for JS processing
+    return(jsonify(obesity_data_dict_Female))  
+
 @app.route("/barchart")
 def barchart():
     """Return the chart page."""
